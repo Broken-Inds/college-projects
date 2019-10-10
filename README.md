@@ -1,6 +1,7 @@
 # college-projects
 
-This is a list of coding projects I've created during my time in college. 
+This is a list of coding projects I've created during my time in college.
+
 *These projects were delevoped from scratch and was used for final projects for my college classes.*
 
 **C++**
